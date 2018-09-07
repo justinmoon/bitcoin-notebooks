@@ -9,6 +9,7 @@ mnemonic = "*"
 pywallet = "*"
 requests = "*"
 "pbkdf2" = "*"
+pycoin = "*"
 
 [dev-packages]
 
